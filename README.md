@@ -1,36 +1,73 @@
-<h1 align="center">Hi 👋, I'm Gourav Kumar Sonu</h1>
-<h3 align="center">An AI & ML enthusiast and Full Stack Developer from India 🚀</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourav05052004&label=Profile%20views&color=0e75b6&style=flat" alt="gourav05052004" /> </p>
+<h1>Hi 👋, I'm Gourav Kumar Sonu</h1>
+<h3>AI & ML enthusiast · Full Stack Developer · India 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourav05052004" alt="gourav05052004" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=gourav05052004&label=Profile+views&color=0e75b6&style=flat" />
 
-- 🔭 I’m currently working on [On-device Automatic Fraud Call Detection System – Detects scam calls in real-time using AI/ML](https://github.com/gourav05052004/call_gaurd)
+</div>
 
-- 🌱 I’m currently learning **Advanced Machine Learning, System Design, and Next.js**
+---
 
-- 👯 I’m looking to collaborate on **AI/ML projects, Open Source, and Full Stack Applications**
+- 🔭 Currently building [Call Guard — On-device Fraud Call Detection System](https://github.com/gourav05052004/call_gaurd)
+- 🌱 Learning **Advanced ML · System Design · Next.js**
+- 👯 Open to collaborate on **AI/ML · Open Source · Full Stack**
+- 💬 Ask me about **Java · Python · DSA · ML · FastAPI · Next.js**
+- 📫 Reach me at **gouravkumarsonuranchi@gmail.com**
+- ⚡ I love building systems that solve real-world problems, not just tutorials
 
-- 🤝 I’m looking for help with **Scaling AI models and deploying ML systems in production**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/gourav05052004](https://github.com/gourav05052004)
+## 🔗 Connect
 
-- 💬 Ask me about **Java, Python, DSA, Machine Learning, FastAPI, Next.js, and Web Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav%20Kumar%20Sonu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouravkumarsonu)
+[![GitHub](https://img.shields.io/badge/GitHub-gourav05052004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gourav05052004)
+[![Gmail](https://img.shields.io/badge/Gmail-gouravkumarsonuranchi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravkumarsonuranchi@gmail.com)
 
-- 📫 How to reach me **gouravkumarsonuranchi@gmail.com**
+---
 
-- ⚡ Fun fact **⚡ Fun fact I love building systems that solve real-world problems, not just tutorials 🚀**
+## 🛠️ Languages & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gouravkumarsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gouravkumarsonu" height="30" width="40" /></a>
-</p>
+<!-- Row 1: Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Row 2: Frontend / Mobile -->
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav05052004&show_icons=true&locale=en&layout=compact" alt="gourav05052004" /></p>
+<!-- Row 3: Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourav05052004&show_icons=true&locale=en" alt="gourav05052004" /></p>
+<!-- Row 4: AI / ML -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav05052004&" alt="gourav05052004" /></p>
+<!-- Row 5: DB & Tools -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav05052004&layout=compact&hide_border=true&theme=default" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=gourav05052004&show_icons=true&hide_border=true&theme=default" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav05052004&hide_border=true&theme=default" height="160"/>
+
+</div>
