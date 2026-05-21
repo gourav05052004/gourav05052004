@@ -43,17 +43,17 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+[<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gourav05052004&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+</p>](https://github-profile-trophy.vercel.app/?username=gourav05052004&theme=flat&no-frame=true&row=1&column=7)
 
 ---
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav05052004&theme=tokyonight&hide_border=true" />
-</p>
+</p>](https://github-readme-streak-stats.herokuapp.com/?user=gourav05052004&theme=default&hide_border=true)
 
 ---
 
