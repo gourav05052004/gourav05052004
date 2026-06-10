@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav Kumar Sonu</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Full Stack Developer from India</h3>
+<h3 align="center">🚀 AI & ML Engineer | Full Stack Developer from India</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gourav05052004&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -40,12 +40,6 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gourav05052004&theme=flat&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
